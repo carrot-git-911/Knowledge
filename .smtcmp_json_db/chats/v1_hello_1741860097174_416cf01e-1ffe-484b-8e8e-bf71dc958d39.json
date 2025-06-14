@@ -1,0 +1,168 @@
+{
+  "id": "416cf01e-1ffe-484b-8e8e-bf71dc958d39",
+  "title": "hello",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "hello",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nhello\n\n"
+        }
+      ],
+      "id": "91580f61-4416-4de6-a986-4798c8ec0b08",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "前端基础/1-JavaScript/数据类型/05-数组.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "5a01206a-c2dc-495e-99da-4ca5a68c4a26",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "分析这个笔记",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n分析这个笔记\n\n"
+        }
+      ],
+      "id": "47ea6ebe-9141-456f-be2f-171565c5ec0d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "前端基础/1-JavaScript/数据类型/05-数组.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "a010f6a2-8ab1-474d-a2b5-91090c86d824",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "hello",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nhello\n\n"
+        }
+      ],
+      "id": "3981fb65-a906-4512-a2ea-88028ae8aada",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "leaflet/demo记录.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "e44f8181-adbb-4208-8243-50f41086c8d3",
+      "metadata": {}
+    }
+  ],
+  "createdAt": 1741833768049,
+  "updatedAt": 1741860097174,
+  "schemaVersion": 1
+}

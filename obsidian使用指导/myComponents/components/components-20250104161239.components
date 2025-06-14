@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "id": "a4b4d669-723c-4e31-96eb-9cd523f28ef7",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2025-01-04T08:12:39.563Z",
+      "updateAt": "2025-01-04T08:12:39.563Z",
+      "components": [
+        {
+          "componentId": "0ed4ff67-7048-4cf9-a4fe-53ab7ed59edb"
+        },
+        {
+          "componentId": "6f2a8854-1704-4f87-98cb-104fce55c4a8"
+        }
+      ],
+      "layoutType": "column",
+      "locked": false,
+      "layoutOptions": {}
+    },
+    {
+      "id": "0ed4ff67-7048-4cf9-a4fe-53ab7ed59edb",
+      "type": "time",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2025-01-04T08:33:10.031Z",
+      "updateAt": "2025-01-04T08:33:10.031Z",
+      "showLunar": true,
+      "hideDateInfo": false,
+      "hideSeconds": false,
+      "hideProgress": true,
+      "backgroundImage": {
+        "url": "附件/banner/WechatIMG12.jpg",
+        "fit": "cover"
+      },
+      "borderColor": "#2e64fa",
+      "fontColor": "#000000"
+    },
+    {
+      "id": "6f2a8854-1704-4f87-98cb-104fce55c4a8",
+      "type": "countdown",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": true,
+      "createAt": "2025-01-04T10:36:36.708Z",
+      "updateAt": "2025-01-04T10:36:36.708Z",
+      "repeatType": "daily",
+      "pictureFit": "cover",
+      "picturePosition": "left",
+      "showEndDateTime": false,
+      "endDayOfWeek": 0,
+      "endHour": 23,
+      "endMinute": 59,
+      "endSecond": 59,
+      "title": "今日剩余",
+      "endMonth": 0,
+      "endDayOfMonth": 2,
+      "timeTextPattern": "Hms",
+      "picture": "附件/banner/WechatIMG11.jpg",
+      "pictureBlurDegree": "2",
+      "borderColor": "#3874ff"
+    }
+  ],
+  "rootComponentId": "a4b4d669-723c-4e31-96eb-9cd523f28ef7"
+}

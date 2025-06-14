@@ -1,0 +1,19 @@
+{
+  "pluginList": [
+    "blacksmithgu/obsidian-dataview",
+    "obsidian-components/obsidian-components-release",
+    "Yaozhuwa/AttachFlow",
+    "0011000000110010/obsidian-i18n"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}

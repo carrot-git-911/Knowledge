@@ -1,0 +1,10 @@
+{
+    "id": "attachment-management",
+    "name": "Attachment Management",
+    "version": "0.9.16",
+    "description": "自定义附件的存放位置及重命名规格，帮助更好的整理笔记附件",
+    "author": "trganda",
+    "authorUrl": "https://github.com/trganda",
+    "fundingUrl": "https://paypal.me/trganda",
+    "isDesktopOnly": false
+}

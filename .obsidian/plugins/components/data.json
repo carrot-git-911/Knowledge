@@ -1,0 +1,28 @@
+{
+  "createComponentSilent": true,
+  "receiveBetaVersion": true,
+  "folder": "obsidian使用指导/myComponents/components",
+  "formFolder": "components/form",
+  "scriptFolder": "obsidian使用指导/myComponents/script",
+  "enableDebug": false,
+  "debugLogOutputFolder": "components/logs",
+  "fileEntrypoints": {},
+  "composerSettings": {
+    "cssClassess": {
+      "tableStyle": "composer--DefaultTableStyle",
+      "calloutStyle": "composer--DefaultCalloutStyle"
+    },
+    "themeLightCssClasses": {
+      "colorScheme": "composer--XiaScheme"
+    },
+    "themeDarkCssClasses": {
+      "colorScheme": "composer--XiaScheme"
+    },
+    "cssVariables": {}
+  },
+  "DEFAULT_SETTINGS": {
+    "folder": "",
+    "createComponentSilent": false,
+    "scriptFolder": "components/scripts"
+  }
+}

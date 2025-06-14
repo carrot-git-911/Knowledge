@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人主页.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "个人主页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "549728afa8665144",
+    "type": "split",
+    "children": [
+      {
+        "id": "033ae2f1e50963b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ff0e0d585f3e5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "44bb60e12255d16f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ba01e87c55f82d77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "c4a18a579669a3a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3031863146c22a5",
+        "type": "tabs",
+        "dimension": 58.52534562211982,
+        "children": [
+          {
+            "id": "ae11f374a968eba8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端基础/5-VUE/vue2/项目搭建记录/01-start.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01-start 的反向链接列表"
+            }
+          },
+          {
+            "id": "d081380807afffd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端基础/5-VUE/vue2/项目搭建记录/01-start.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "01-start 的出链列表"
+            }
+          },
+          {
+            "id": "07f33e2ceaa15e98",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "97e439482206f547",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d938038a0a01206d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "源代码管理"
+            }
+          },
+          {
+            "id": "aec146e778583601",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f95e81f14baa68a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "85c6129fcd0836c7",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          },
+          {
+            "id": "50c5fb4724367c8f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "fd7b1fc01427a89a",
+        "type": "tabs",
+        "dimension": 41.474654377880185,
+        "children": [
+          {
+            "id": "282054c7e2db1075",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          },
+          {
+            "id": "d0f7b0b4ff6fb977",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "smart-chat",
+              "title": "Smart Chat"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-custom-frames:Open 小红书": false,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "switcher:打开快速切换": true,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "workspaces:管理工作区布局": true,
+      "obsidian-memos:Thino": false,
+      "templater-obsidian:Templater": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian42-brat:BRAT": false,
+      "i18n:I18N": false,
+      "pkmer:Open Pkmer Market": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "obsidian-git:打开Git源代码管理": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "未命名文件夹",
+    "个人主页.md",
+    "前端基础/1-JavaScript/js数据类型/01-JavaScript数据类型.md",
+    "README.md",
+    "附件/banner/WechatIMG6.jpg",
+    "附件/banner/WechatIMG12.jpg",
+    "附件/banner/WechatIMG11.jpg",
+    "附件/banner/WechatIMG10.jpg",
+    "附件/banner/WechatIMG9.jpg",
+    "附件/banner/WechatIMG8.jpg",
+    "leaflet/02-leaflet知识点.md",
+    "前端基础/VUE3+TS/vue3-尚硅谷/01-Vue3简介.md",
+    "nodejs/B站课程/01-node简介和脚手架工具.md",
+    "前端基础/VUE3+TS/vue3-尚硅谷/00-Vue3快速上手.md",
+    "前端基础/5-VUE/vue2/项目搭建记录/01-start.md",
+    "前端基础/5-VUE/vue2/项目搭建记录/package.json.md",
+    "前端基础/3-HTML/星星之火.md",
+    "前端基础/webpack/webpack.md",
+    "业务逻辑/网点.md",
+    "前端基础/other.md",
+    "附件/前端基础/other/Pasted image 20230502200901.png",
+    "前端基础/webpack/vue.config.js.md",
+    "前端基础/3-HTML/02-Meta标签.md",
+    "leaflet/turf/问题记录.md",
+    "前端基础/3-HTML/05-Canvas.md",
+    "leaflet/turf",
+    "前端基础/3-HTML/06-SVG.md",
+    "前端基础/3-HTML/04-表单增强.md",
+    "前端基础/3-HTML/HTML.md",
+    "前端基础/3-HTML/03-语义化标签.md",
+    "前端基础/Work Learn/工作笔记/知识篇(需求补充).md",
+    "前端基础/4-ES6/01-es6.md",
+    "前端基础/VUE3+TS/vue3项目实践/01-创建项目.md",
+    "前端基础/1-JavaScript/js数据类型/08-对象Object.md",
+    "天行健/日记/2025-06",
+    "天行健/日记/2025-04",
+    "附件/前端基础/1-JavaScript/js数据类型/09-循环",
+    "附件/前端基础/1-JavaScript/js运行机制/02-异步机制/file-pasted-20250319212958365.png",
+    "附件/前端基础/1-JavaScript/js运行机制/02-异步机制",
+    "附件/前端基础/1-JavaScript/js运行机制",
+    "前端基础/1-JavaScript/未命名.canvas",
+    "附件/前端基础/1-JavaScript/js数据类型/07-循环",
+    "附件/前端基础/1-JavaScript/js数据类型/02-Number",
+    "附件/前端基础/1-JavaScript/js数据类型/01-JavaScript数据类型",
+    "附件/前端基础/1-JavaScript/js数据类型",
+    "附件/前端基础/1-JavaScript/js数据类型/09-循环/file-pasted-20250315200837800.png",
+    "未命名1.canvas",
+    "未命名.canvas",
+    "附件/前端基础/1-JavaScript/js数据类型/02-Number/file-pasted-20250312002537984.png",
+    "nodejs/未命名.canvas",
+    "附件/Excalidraw/未命名.canvas",
+    "前端基础/VUE3+TS/vue3-尚硅谷/未命名.canvas",
+    "生活/日记/未命名.canvas",
+    "未命名 1.canvas",
+    "Work Learn/未命名.canvas"
+  ]
+}

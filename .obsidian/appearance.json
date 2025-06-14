@@ -1,0 +1,15 @@
+{
+  "accentColor": "#a34fba",
+  "theme": "system",
+  "textFontFamily": "Inter",
+  "cssTheme": "Border",
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "custom-admonitions.186b35"
+  ],
+  "interfaceFontFamily": "Chalkboard,Baloo Bhai 2",
+  "translucency": false,
+  "nativeMenus": true,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": ""
+}
