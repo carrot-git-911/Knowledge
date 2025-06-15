@@ -46,6 +46,60 @@
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
+      "plusExclusive": true,
+      "projectEnabled": false,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-4.1",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-4.1-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-4.1-nano",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "o4-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "reasoning"
+      ]
+    },
+    {
+      "name": "claude-3-5-sonnet-latest",
+      "provider": "anthropic",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
       "capabilities": [
         "vision"
       ]
@@ -63,16 +117,6 @@
     {
       "name": "gpt-4o-mini",
       "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ]
-    },
-    {
-      "name": "claude-3-5-sonnet-latest",
-      "provider": "anthropic",
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
@@ -148,7 +192,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true,
-      "core": true
+      "core": true,
+      "plusExclusive": true
     },
     {
       "name": "copilot-plus-large",
@@ -157,6 +202,7 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true,
+      "plusExclusive": true,
       "believerExclusive": true,
       "dimensions": 1024
     },
@@ -167,6 +213,7 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true,
+      "plusExclusive": true,
       "dimensions": 512
     },
     {
@@ -285,5 +332,11 @@
       "prompt": "<instruction>Transform the text below into a professional press release:\n    1. Use formal, journalistic style\n    2. Include headline and dateline\n    3. Follow inverted pyramid structure\n    Return only the press release format.</instruction>\n\n<text>{copilot-selection}</text>",
       "showInContextMenu": false
     }
-  ]
+  ],
+  "userId": "d8a16b0e-8f09-493f-9f90-56280aed1c10",
+  "includeActiveNoteAsContext": true,
+  "passMarkdownImages": true,
+  "enableCustomPromptTemplating": true,
+  "allowAdditionalContext": true,
+  "enableWordCompletion": false
 }

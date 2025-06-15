@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "073bb9b85f7612f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "1a0d373f667df82f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "个人主页.md",
-                "mode": "source",
-                "source": false
+                "aFile": "天行健/日记/2025-06/2025-06-15.md",
+                "bFile": "天行健/日记/2025-06/2025-06-15.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "个人主页"
+              "icon": "diff",
+              "title": "Diff: 2025-06-15"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313
+    "width": 273.51103591918945
   },
   "right": {
     "id": "c4a18a579669a3a0",
@@ -190,19 +190,9 @@
               "icon": "calendar-clock",
               "title": "Tasks Timeline"
             }
-          },
-          {
-            "id": "50c5fb4724367c8f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "fd7b1fc01427a89a",
@@ -218,19 +208,8 @@
               "icon": "calendar-clock",
               "title": "Tasks Timeline"
             }
-          },
-          {
-            "id": "d0f7b0b4ff6fb977",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "smart-chat",
-              "title": "Smart Chat"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,15 +234,18 @@
       "pkmer:Open Pkmer Market": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d938038a0a01206d",
   "lastOpenFiles": [
-    "未命名文件夹",
+    "前端基础/日常汇总/GitHub.md",
     "个人主页.md",
+    "前端基础/日常汇总",
+    "天行健/日记/Diary Template.md",
+    "天行健/日记/2025-06/2025-06-15.md",
+    "前端基础/1-JavaScript/js数据类型/09-循环.md",
+    "未命名文件夹",
     "前端基础/1-JavaScript/js数据类型/01-JavaScript数据类型.md",
     "README.md",
     "附件/banner/WechatIMG6.jpg",
@@ -293,9 +275,6 @@
     "前端基础/3-HTML/HTML.md",
     "前端基础/3-HTML/03-语义化标签.md",
     "前端基础/Work Learn/工作笔记/知识篇(需求补充).md",
-    "前端基础/4-ES6/01-es6.md",
-    "前端基础/VUE3+TS/vue3项目实践/01-创建项目.md",
-    "前端基础/1-JavaScript/js数据类型/08-对象Object.md",
     "天行健/日记/2025-06",
     "天行健/日记/2025-04",
     "附件/前端基础/1-JavaScript/js数据类型/09-循环",
@@ -305,8 +284,6 @@
     "前端基础/1-JavaScript/未命名.canvas",
     "附件/前端基础/1-JavaScript/js数据类型/07-循环",
     "附件/前端基础/1-JavaScript/js数据类型/02-Number",
-    "附件/前端基础/1-JavaScript/js数据类型/01-JavaScript数据类型",
-    "附件/前端基础/1-JavaScript/js数据类型",
     "附件/前端基础/1-JavaScript/js数据类型/09-循环/file-pasted-20250315200837800.png",
     "未命名1.canvas",
     "未命名.canvas",
