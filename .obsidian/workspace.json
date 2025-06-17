@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "073bb9b85f7612f3",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1a0d373f667df82f",
+            "id": "5e60740290b5f837",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "天行健/日记/2025-06/2025-06-15.md",
-                "bFile": "天行健/日记/2025-06/2025-06-15.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2025-06-15"
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
         ]
@@ -190,6 +186,16 @@
               "icon": "calendar-clock",
               "title": "Tasks Timeline"
             }
+          },
+          {
+            "id": "c8adb8709446a9b2",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-小红书",
+              "state": {},
+              "icon": "documents",
+              "title": "小红书"
+            }
           }
         ],
         "currentTab": 4
@@ -217,6 +223,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open 哔哩哔哩": false,
       "homepage:Open homepage": false,
       "obsidian-custom-frames:Open 小红书": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
@@ -237,10 +244,13 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "d938038a0a01206d",
+  "active": "5e60740290b5f837",
   "lastOpenFiles": [
-    "前端基础/日常汇总/GitHub.md",
+    "天行健/日记/2025-06/2025-06-18.md",
+    "天行健/日记/2025-06/2025-06-17.md",
     "个人主页.md",
+    "obsidian使用指导/myComponents/components/components-20250104185225.components",
+    "前端基础/日常汇总/GitHub.md",
     "前端基础/日常汇总",
     "天行健/日记/Diary Template.md",
     "天行健/日记/2025-06/2025-06-15.md",
@@ -273,8 +283,6 @@
     "前端基础/3-HTML/06-SVG.md",
     "前端基础/3-HTML/04-表单增强.md",
     "前端基础/3-HTML/HTML.md",
-    "前端基础/3-HTML/03-语义化标签.md",
-    "前端基础/Work Learn/工作笔记/知识篇(需求补充).md",
     "天行健/日记/2025-06",
     "天行健/日记/2025-04",
     "附件/前端基础/1-JavaScript/js数据类型/09-循环",
@@ -283,7 +291,6 @@
     "附件/前端基础/1-JavaScript/js运行机制",
     "前端基础/1-JavaScript/未命名.canvas",
     "附件/前端基础/1-JavaScript/js数据类型/07-循环",
-    "附件/前端基础/1-JavaScript/js数据类型/02-Number",
     "附件/前端基础/1-JavaScript/js数据类型/09-循环/file-pasted-20250315200837800.png",
     "未命名1.canvas",
     "未命名.canvas",
