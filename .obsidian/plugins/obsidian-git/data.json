@@ -1,8 +1,8 @@
 {
-  "commitMessage": "个人知识库更新{{date}}",
+  "commitMessage": "个人知识库更新{{date}}-{{hostname}}",
   "autoCommitMessage": "个人知识库更新1{{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 30,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,

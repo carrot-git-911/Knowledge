@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9733ac2095e4f2c8",
         "type": "tabs",
         "children": [
           {
-            "id": "5e60740290b5f837",
+            "id": "1fd866193743dc18",
             "type": "leaf",
             "state": {
-              "type": "thino_view",
+              "type": "empty",
               "state": {},
-              "icon": "Memos",
-              "title": "Thino"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -244,7 +244,7 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "d938038a0a01206d",
+  "active": "1fd866193743dc18",
   "lastOpenFiles": [
     "天行健/日记/Diary Template.md",
     "天行健/日记/2025-06/2025-06-18.md",
