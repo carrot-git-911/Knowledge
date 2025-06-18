@@ -87,7 +87,7 @@
       {
         "id": "d3031863146c22a5",
         "type": "tabs",
-        "dimension": 58.52534562211982,
+        "dimension": 32.30035756853397,
         "children": [
           {
             "id": "ae11f374a968eba8",
@@ -190,16 +190,6 @@
               "icon": "calendar-clock",
               "title": "Tasks Timeline"
             }
-          },
-          {
-            "id": "50c5fb4724367c8f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
           }
         ],
         "currentTab": 4
@@ -207,7 +197,7 @@
       {
         "id": "fd7b1fc01427a89a",
         "type": "tabs",
-        "dimension": 41.474654377880185,
+        "dimension": 67.69964243146603,
         "children": [
           {
             "id": "282054c7e2db1075",
@@ -218,19 +208,8 @@
               "icon": "calendar-clock",
               "title": "Tasks Timeline"
             }
-          },
-          {
-            "id": "d0f7b0b4ff6fb977",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "smart-chat",
-              "title": "Smart Chat"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,7 +221,7 @@
       "obsidian-custom-frames:Open 小红书": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
       "switcher:打开快速切换": true,
-      "canvas:新建白板": false,
+      "canvas:新建白板": true,
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": true,
       "command-palette:打开命令面板": true,
@@ -262,6 +241,7 @@
   },
   "active": "2517a30a179fe13f",
   "lastOpenFiles": [
+    "README.md",
     "个人主页.md",
     "天行健/日记/2025-06/2025-06-17.md",
     "conflict-files-obsidian-git.md",
@@ -273,7 +253,6 @@
     "obsidian使用指导/myComponents/components/components-20250104161239.components",
     "未命名文件夹",
     "前端基础/1-JavaScript/js数据类型/01-JavaScript数据类型.md",
-    "README.md",
     "附件/banner/WechatIMG6.jpg",
     "附件/banner/WechatIMG12.jpg",
     "附件/banner/WechatIMG11.jpg",

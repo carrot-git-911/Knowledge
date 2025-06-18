@@ -37,7 +37,7 @@
         "model_key": "undefined"
       }
     },
-    "active_thread_key": "Untitled Chat 1749974581626",
+    "active_thread_key": "Untitled Chat 1750222320706",
     "system_prompt": "",
     "detect_self_referential": true,
     "review_context": true,
@@ -49,8 +49,7 @@
   "smart_notices": {
     "muted": {
       "embedding_complete": true,
-      "done_import": true,
-      "done_initial_scan": true
+      "done_import": true
     }
   },
   "version": "",
