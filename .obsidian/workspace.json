@@ -25,14 +25,14 @@
             "id": "b43d8970a84894d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "天行健/日记/2025-06/2025-06-17.md",
-                "mode": "source",
-                "source": false
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-06-17"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
@@ -276,10 +276,10 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "d938038a0a01206d",
+  "active": "b43d8970a84894d1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "天行健/日记/2025-06/2025-06-17.md",
+    "conflict-files-obsidian-git.md",
     "天行健/日记/2025-06/2025-06-18.md",
     "个人主页.md",
     "天行健/日记/2025-06/2025-06-15.md",
