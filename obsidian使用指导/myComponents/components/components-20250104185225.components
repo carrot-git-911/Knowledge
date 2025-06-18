@@ -27,46 +27,11 @@
               "h": 4
             }
           }
-        },
-        {
-          "componentId": "568e084f-4857-4e9e-9cb1-76f46b9ac948"
         }
       ],
       "layoutType": "list",
       "locked": false,
       "layoutOptions": {}
-    },
-    {
-      "id": "4f49829e-c730-48c8-9786-d1585bd12627",
-      "type": "markdown",
-      "titleAlign": "center",
-      "tabTitle": "未完成任务",
-      "maxWidthRatio": -1,
-      "showBorder": true,
-      "showShadow": true,
-      "createAt": "2025-01-04T11:00:23.494Z",
-      "updateAt": "2025-01-04T11:00:23.494Z",
-      "maxHeight": 406,
-      "contentAlign": "left",
-      "markdownsSource": "content",
-      "markdownValue": "## 未完成\n\n```tasks\nnot done\n```",
-      "borderColor": "#8bf1ff"
-    },
-    {
-      "id": "590f22f9-68c4-441e-bdd5-3319f19b435e",
-      "type": "markdown",
-      "titleAlign": "center",
-      "tabTitle": "已完成任务",
-      "maxWidthRatio": -1,
-      "showBorder": true,
-      "showShadow": true,
-      "createAt": "2025-01-04T11:01:11.934Z",
-      "updateAt": "2025-01-04T11:01:11.934Z",
-      "maxHeight": 300,
-      "contentAlign": "left",
-      "markdownsSource": "content",
-      "markdownValue": "## 已完成\n```tasks\n\n```",
-      "borderColor": "#8bf1ff"
     },
     {
       "id": "44697e6b-b751-48aa-83cc-94a67e4e94e5",
@@ -78,72 +43,8 @@
       "showShadow": false,
       "createAt": "2025-01-04T11:07:20.928Z",
       "updateAt": "2025-01-04T11:07:20.928Z",
-      "components": [
-        {
-          "componentId": "0803bb95-45f4-40e9-a5b0-da95ae60612c"
-        }
-      ],
+      "components": [],
       "layoutType": "list",
-      "locked": false,
-      "layoutOptions": {}
-    },
-    {
-      "id": "0803bb95-45f4-40e9-a5b0-da95ae60612c",
-      "type": "dailyCheck",
-      "titleAlign": "left",
-      "tabTitle": "",
-      "maxWidthRatio": -1,
-      "showBorder": true,
-      "showShadow": true,
-      "createAt": "2025-01-04T11:09:48.284Z",
-      "updateAt": "2025-01-04T11:09:48.284Z",
-      "tasks": [
-        {
-          "id": "373f6a56-ccf2-404e-bc19-918fc52194e2",
-          "name": "学习",
-          "options": {}
-        },
-        {
-          "id": "20eb0a9e-9b99-45c9-9c2e-f3079a1a5d60",
-          "name": "noUC",
-          "options": {}
-        },
-        {
-          "id": "cc8ce8f0-9b00-4e15-a613-2f3cec206f1d",
-          "name": "合理作息",
-          "options": {}
-        },
-        {
-          "id": "fce19874-72d0-492c-96af-41a92826dc95",
-          "name": "泡脚",
-          "options": {}
-        }
-      ],
-      "dataRecordType": "journalProperty",
-      "folder": "components/daily-check",
-      "title": "每日打卡",
-      "borderColor": "#f0aaaa70",
-      "fontColor": "#ebbfbfde"
-    },
-    {
-      "id": "568e084f-4857-4e9e-9cb1-76f46b9ac948",
-      "type": "multi",
-      "titleAlign": "center",
-      "tabTitle": "任务",
-      "maxWidthRatio": -1,
-      "showBorder": true,
-      "showShadow": false,
-      "createAt": "2025-01-04T11:20:16.102Z",
-      "updateAt": "2025-01-04T11:20:16.102Z",
-      "components": [
-        {
-          "componentId": "4f49829e-c730-48c8-9786-d1585bd12627"
-        },
-        {
-          "componentId": "590f22f9-68c4-441e-bdd5-3319f19b435e"
-        }
-      ],
-      "layoutType": "column",
       "locked": false,
       "layoutOptions": {}
     }
