@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "个人主页"
             }
+          },
+          {
+            "id": "2707b1434b0e2c78",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,13 +249,15 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "d938038a0a01206d",
+  "active": "2707b1434b0e2c78",
   "lastOpenFiles": [
+    "天行健/日记/2025-06/2025-06-18.md",
     "个人主页.md",
+    "附件/Excalidraw/Drawing 2025-03-13 20.16.05.excalidraw.md",
+    "obsidian使用指导/myComponents/components/components-20250104185225.components",
     "README.md",
     "天行健/日记/2025-06/2025-06-17.md",
     "conflict-files-obsidian-git.md",
-    "天行健/日记/2025-06/2025-06-18.md",
     "天行健/日记/2025-06/2025-06-15.md",
     "前端基础/日常汇总/GitHub.md",
     "前端基础/日常汇总",
@@ -276,7 +289,6 @@
     "leaflet/turf",
     "前端基础/3-HTML/06-SVG.md",
     "前端基础/3-HTML/04-表单增强.md",
-    "前端基础/3-HTML/HTML.md",
     "天行健/日记/2025-06",
     "天行健/日记/2025-04",
     "附件/前端基础/1-JavaScript/js数据类型/09-循环",
@@ -284,7 +296,6 @@
     "附件/前端基础/1-JavaScript/js运行机制/02-异步机制",
     "附件/前端基础/1-JavaScript/js运行机制",
     "前端基础/1-JavaScript/未命名.canvas",
-    "附件/前端基础/1-JavaScript/js数据类型/07-循环",
     "附件/前端基础/1-JavaScript/js数据类型/09-循环/file-pasted-20250315200837800.png",
     "未命名1.canvas",
     "未命名.canvas",
