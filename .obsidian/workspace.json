@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7946278f86a2d7e3",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2517a30a179fe13f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "fd7b1fc01427a89a",
@@ -217,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open 哔哩哔哩": false,
       "homepage:Open homepage": false,
       "obsidian-custom-frames:Open 小红书": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
@@ -234,15 +235,13 @@
       "pkmer:Open Pkmer Market": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "2517a30a179fe13f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "个人主页.md",
+    "README.md",
     "天行健/日记/2025-06/2025-06-17.md",
     "conflict-files-obsidian-git.md",
     "天行健/日记/2025-06/2025-06-18.md",
