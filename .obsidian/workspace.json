@@ -49,8 +49,7 @@
               "title": "01-HTML5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,10 +266,10 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "198694f3f6fd097b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "前端基础/3-HTML/HTML.md",
     "前端基础/3-HTML/HTML经典面试题.md",
+    "前端基础/3-HTML/HTML.md",
     "前端基础/3-HTML/01-HTML5.md",
     "前端基础/3-HTML/05-Canvas.md",
     "前端基础/3-HTML/02-Meta标签.md",

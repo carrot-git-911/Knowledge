@@ -8,12 +8,12 @@ DOCTYPE 是 HTML5中一种标准通用标记语言的文档类型声明，它的
 ### meta 标签
 [[02-Meta标签]]
 
-### 行内元素、块级元素、
+### 行内元素、块级元素、行内块级元素
 
 ### Canvas 和 SVG 的区别
 
 ### cookie
 
-src 和 herf
+### src 和 herf
 
-img alt title
+### img alt title
