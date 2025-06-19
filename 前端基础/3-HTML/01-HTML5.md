@@ -359,4 +359,21 @@ picture
     
 - **Modernizr**：检测浏览器支持特性。
     
-- **性能优化**：懒加载图片、异步脚本（`async`/`defer`）、资源预加载（`<link rel="preload">`）。
+- **性能优化**：懒加载图片、异步脚本（`async` / `defer`）、资源预加载（`<link rel="preload">`）。
+
+## DOM 查询操作
+
+querySelector
+查询文档中的第一个匹配元素, 如果匹配到了，返回匹配到的元素，没有返回 null
+```js
+var element = document.querySelector('.my-class');
+console.log(element);
+```
+querySelectorAll
+该方法返回所有满足条件的元素，结果是个 nodeList 集合
+```js
+var elements = document.querySelectorAll('.my-class');
+console.log(elements);
+```
+
+matches

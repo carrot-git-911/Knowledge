@@ -44,53 +44,11 @@ HTML标签的语义化，简单来说，就是用正确的标签做正确的事�
 
 ```
 
-#### DOCTYPE(⽂档类型) 的作⽤
-DOCTYPE是HTML5中一种标准通用标记语言的文档类型声明，它的目的是**告诉浏览器（解析器）应该以什么样（html或xhtml）的文档类型定义来解析文档**，不同的渲染模式会影响浏览器对 CSS 代码甚⾄ JavaScript 脚本的解析。它必须声明在HTML⽂档的第⼀⾏。
 
 #### img上 title 与 alt
 - alt：全称`alternate`，切换的意思，如果无法显示图像，浏览器将显示alt指定的内容
 - title：当鼠标移动到元素上时显示title的内容
 
-#### 常⽤的meta标签有哪些
-`meta` 标签由 `name` 和 `content` 属性定义，**用来描述网页文档的属性**，比如网页的作者，网页描述，关键词等，除了HTTP标准固定了一些`name`作为大家使用的共识，开发者还可以自定义name。
-（1）`charset`，用来描述HTML文档的编码类型
-```
-<meta charset="UTF-8" >
-```
-（2） `keywords`，页面关键词：
-```
-<meta name="keywords" content="关键词" />
-```
-（3）`description`，页面描述：
-```
-<meta name="description" content="页面描述内容" />
-```
-（4）`refresh`，页面重定向和刷新：
-```
-<meta http-equiv="refresh" content="0;url=" />
-```
-content  内的数字表示时间(秒)，即多少秒后刷新，如果加url,则会重定向到指定网页（搜索引擎能够自动检测，也很容易被引擎视作误导而受到惩罚）。
-（5）`viewport`，适配移动端，可以控制视口的大小和比例：
-```
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-```
-**width**：控制 viewport 的大小，可以指定的一个值或者特殊的值，如 device-width 为设备的宽度（单位为缩放为 100% 时的 CSS 的像素）。
-**height**：和width相对应，指定高度。
-**initial-scale**：初始缩放。即页面初始缩放程度。这是一个浮点值，是页面大小的一个乘数。例如，如果你设置初始缩放为“1.0”，那么，web页面在展现的时候就会以target density分辨率的1:1来展现。如果你设置为“2.0”，那么这个页面就会放大为2倍。
-**minimum-scale**：允许用户缩放到的最小比例
-**maximum-scale**：最大缩放。即允许的最大缩放程度。这也是一个浮点值，用以指出页面大小与屏幕大小相比的最大乘数。例如，如果你将这个值设置为“2.0”，那么这个页面与target size相比，最多能放大2倍。
-**user-scalable**：用户调整缩放。即用户是否能改变页面缩放程度。如果设置为yes则是允许用户对其进行改变，反之为no。默认值是yes。如果你将其设置为no，那么minimum-scale和maximum-scale都将被忽略，因为根本不可能缩放。
-
-（6）搜索引擎索引方式：
-```
-<meta name="robots" content="index,follow" />
-```
-- `all`：文件将被检索，且页面上的链接可以被查询；
-- `none`：文件将不被检索，且页面上的链接不可以被查询；
-- `index`：文件将被检索；
-- `follow`：页面上的链接可以被查询；
-- `noindex`：文件将不被检索；
-- `nofollow`：页面上的链接不可以被查询。
 #### HTML5有哪些更新
 ##### 语义化标签
 [你不知道的HTML5语义化标签 - 掘金](https://juejin.cn/post/6990572224637992996?searchId=20230913153003E6276688F519872ADECA)
