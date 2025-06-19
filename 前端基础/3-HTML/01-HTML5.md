@@ -1,3 +1,6 @@
+---
+banner: "![[附件/banner/WechatIMG8.jpg]]"
+---
 > [!abstract]
 > HTML5 是 HTML 的第五个主要版本，于 2014 年 10 月由 W3C 完成标准制定。它不仅是 HTML 的更新，还包含了一系列相关技术的集合
 
@@ -377,3 +380,19 @@ console.log(elements);
 ```
 
 matches
+检查当前元素是否匹配指定的选择器
+```js
+var element = document.querySelector('.my-class');
+if (element.matches('.my-class')) {
+    console.log('Element matches the selector');
+}
+```
+
+closest
+从当前元素开始，逐级向上遍历DOM树，直到找到匹配指定选择器的元素。如果没有找到，则返回 `null`
+查找触发事件的元素的父元素
+```js
+var element = document.querySelector('.my-class');
+var parent = element.closest('.parent-class');
+console.log(parent);
+```
