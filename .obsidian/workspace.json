@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端基础/3-HTML/HTML经典面试题.md",
+                "file": "前端基础/5-VUE/vue2/知识点/配置文件相关.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML经典面试题"
+              "title": "配置文件相关"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,12 +267,15 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "88a2207dd33d728d",
+  "active": "198694f3f6fd097b",
   "lastOpenFiles": [
-    "天行健/日记/2025-06/2025-06-20.md",
-    "前端基础/3-HTML/HTML.md",
+    "前端基础/5-VUE/vue2/项目搭建记录/package.json.md",
+    "前端基础/5-VUE/vue2/知识点/配置文件相关.md",
+    "前端基础/5-VUE/vue2/项目搭建记录/01-start.md",
     "前端基础/3-HTML/HTML经典面试题.md",
+    "前端基础/3-HTML/HTML.md",
     "前端基础/3-HTML/01-HTML5.md",
+    "天行健/日记/2025-06/2025-06-20.md",
     "前端基础/3-HTML/05-Canvas.md",
     "前端基础/3-HTML/02-Meta标签.md",
     "前端基础/3-HTML/星星之火.md",
@@ -302,9 +305,6 @@
     "附件/banner/WechatIMG8.jpg",
     "leaflet/02-leaflet知识点.md",
     "前端基础/VUE3+TS/vue3-尚硅谷/01-Vue3简介.md",
-    "nodejs/B站课程/01-node简介和脚手架工具.md",
-    "前端基础/VUE3+TS/vue3-尚硅谷/00-Vue3快速上手.md",
-    "前端基础/5-VUE/vue2/项目搭建记录/01-start.md",
     "附件/前端基础/other/Pasted image 20230502200901.png",
     "leaflet/turf",
     "天行健/日记/2025-06",
