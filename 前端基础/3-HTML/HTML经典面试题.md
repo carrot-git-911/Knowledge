@@ -32,17 +32,17 @@ seo 优化：搜索引擎更易抓取关键内容（如 `<h1>` 标题、`<main
 - **屏幕阅读器**（如 NVDA）：实际体验无障碍效果。
 
 ### HTML5有哪些更新
-
-
+[[01-HTML5]]
 ### meta 标签
 [[02-Meta标签]]
+### Canvas 和 SVG 的区别
+[[05-Canvas]]
+[[06-SVG]]
 
 ### 行内元素、块级元素、行内块级元素
-
-### Canvas 和 SVG 的区别
-
-### cookie
 
 ### src 和 herf
 
 ### img alt title
+
+### cookie
