@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端基础/5-VUE/vue2/知识点/配置文件相关.md",
+                "file": "前端基础/3-HTML/HTML经典面试题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "配置文件相关"
+              "title": "HTML经典面试题"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Markdown基础语法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,15 +280,15 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "198694f3f6fd097b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "前端基础/3-HTML/HTML经典面试题.md",
+    "前端基础/5-VUE/vue2/知识点/配置文件相关.md",
     "前端基础/3-HTML/01-HTML5.md",
     "obsidian使用指导/Markdown/Markdown基础语法.md",
-    "前端基础/5-VUE/vue2/知识点/配置文件相关.md",
     "obsidian使用指导/Markdown/obsidian-扩展语法.md",
     "前端基础/5-VUE/vue2/项目搭建记录/package.json.md",
     "前端基础/5-VUE/vue2/项目搭建记录/01-start.md",
-    "前端基础/3-HTML/HTML经典面试题.md",
     "前端基础/3-HTML/HTML.md",
     "天行健/日记/2025-06/2025-06-20.md",
     "前端基础/3-HTML/05-Canvas.md",
